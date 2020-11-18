@@ -1,6 +1,7 @@
-# Pasword-cracker
-Craqueador de contraseñas en pyton
+# Password-cracker
+Craqueador de contraseñas en pyton 
 
+password cracker
 
 follow me on:
 
